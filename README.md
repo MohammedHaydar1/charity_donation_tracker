@@ -6,7 +6,7 @@ A feature-rich Flutter Android app to track your charitable donations, manage ch
 
 ## 📱 Screenshots
 
-> Run the app and take screenshots, then add them here.
+Coming soon
 
 ---
 
